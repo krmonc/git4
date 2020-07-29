@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 50E0-6305
-
- Directory of C:\Users\krmon\Desktop\my project
-
-07/29/2020  04:20 PM    <DIR>          .
-07/29/2020  04:20 PM    <DIR>          ..
-07/29/2020  04:20 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  921,774,018,560 bytes free
+first change
